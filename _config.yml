@@ -1,7 +1,7 @@
 name: holdicon
 favicon: null
-layout_spectrum: 0.3723941850475967
-typography_spectrum: 0.7390091179404408
+layout_spectrum: 0.76452
+typography_spectrum: 0.32781
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8218361311592162
-  lightness: 0.3799217736814171
-  saturation: 0.3854316147044301
-  rhythmicContrast: 0.9176242642570287
+    - '#3948ff'
+    - '#ffffff'
+    - '#a2a9ff'
+    - '#8891ff'
+    - '#cdd1ff'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
