@@ -2,6 +2,7 @@ name: holdicon
 favicon: null
 layout_spectrum: 0.76452
 typography_spectrum: 0.32781
+title: h
 cta:
   domain: null
   bucket: null
