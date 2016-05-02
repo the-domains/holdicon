@@ -1,29 +1,41 @@
-name: holdicon
-favicon: null
-layout_spectrum: 0.76452
-typography_spectrum: 0.32781
 title: h
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.8320895
+  lightness: 0.5
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#6200AB'
+    - '#2D1B0F'
+    - '#FFD347'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: holdicon
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3948ff'
-    - '#ffffff'
-    - '#a2a9ff'
-    - '#8891ff'
-    - '#cdd1ff'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.6879664
+layout_spectrum: 0.09701493
